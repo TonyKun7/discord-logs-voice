@@ -1,0 +1,15 @@
+{
+  "name": "discord-logs-voice",
+  "version": "1.0.0",
+  "description": "Allows to have the logs of all the voice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@tonykun7",
+  "license": "ISC",
+  "dependencies": {
+    "@tonykun7/discord-avanced": "^1.0.1",
+    "discord.js": "^13.7.0"
+  }
+}
